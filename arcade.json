@@ -1,0 +1,19 @@
+﻿{
+	"name": "Minecraft Multiplayer",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "217",
+	"used-plugins": [
+		"HTML_iFrame"
+	],
+	"used-behaviors": [
+		"Anchor"
+	]
+}
